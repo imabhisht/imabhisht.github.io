@@ -1,7 +1,7 @@
 
 # Portfolio
 
-My Portfolio: https://https://imabhisht.github.io
+My Portfolio: https://imabhisht.github.io
 
 ### Technologies used 🛠️
 
