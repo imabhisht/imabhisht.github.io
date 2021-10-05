@@ -14,25 +14,25 @@
    "density": "1.0"
   },
   {
-   "src": "\/rounded_imabhisht.png",
+   "src": "\/icon/rounded_imabhisht.png",
    "sizes": "72x72",
    "type": "image\/png",
    "density": "1.5"
   },
   {
-   "src": "\/rounded_imabhisht.png",
+   "src": "\/icon/rounded_imabhisht.png",
    "sizes": "96x96",
    "type": "image\/png",
    "density": "2.0"
   },
   {
-   "src": "\/rounded_imabhisht.png",
+   "src": "\/icon/rounded_imabhisht.png",
    "sizes": "144x144",
    "type": "image\/png",
    "density": "3.0"
   },
   {
-   "src": "\/rounded_imabhisht.png",
+   "src": "\/icon/rounded_imabhisht.png",
    "sizes": "192x192",
    "type": "image\/png",
    "density": "4.0"
